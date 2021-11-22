@@ -1,6 +1,6 @@
 # WortUhr
 
-Hier findet man alle nötigen Informationen zur software der Wortuhr.
+Hier findet man alle nötigen Informationen zur Software der Wortuhr.
 
 
 * Software
