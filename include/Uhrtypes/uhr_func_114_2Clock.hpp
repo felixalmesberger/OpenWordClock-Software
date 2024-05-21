@@ -49,10 +49,10 @@ public:
         case nach:
         case v_nach:
             // NACH
-            Letter_set(36);
-            Letter_set(35);
-            Letter_set(34);
             Letter_set(33);
+            Letter_set(34);
+            Letter_set(35);
+            Letter_set(36);
             break;
 
         case vor:
